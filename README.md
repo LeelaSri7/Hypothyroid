@@ -1,5 +1,4 @@
-# Hypothyroid
-Title: Machine Learning Model Evaluation and Imbalanced Dataset Handling
+# Handling Imbalanced Datasets with ML Models: Hypothyroid Case Study
 
 Description:
 In this project, I worked on a Hypothyroid dataset, aiming to build and evaluate various machine learning classification models while addressing the challenge of an imbalanced dataset. To achieve this, I utilized Python with popular data analysis and visualization libraries, including Pandas, NumPy, Matplotlib, Seaborn, and Missingno.
